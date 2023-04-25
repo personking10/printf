@@ -1,12 +1,12 @@
 #include "main.h"
 
 /**
- * _printf - print all of things
+ * _printfff - print all of things
  * @format: string format
  *
  * Return: printing num bytes
  */
-int _printf(const char *format, ...)
+int _printfff(const char *format, ...)
 {
 	int all = 0;
 	va_list ap;
